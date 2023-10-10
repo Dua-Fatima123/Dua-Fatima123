@@ -2,6 +2,11 @@
 ### Syeda Dua Fatima
 Hello, fellow AI enthusiasts! 👋 I'm Syeda Dua Fatima, a passionate Artificial Intelligence student with a keen interest in pushing the boundaries of innovation and exploring the uncharted realms of AI and technology. Welcome to my GitHub profile, where I share my thoughts, projects, and experiments in the exciting world of AI and beyond.
 
+##  About Me
+-🧠** Currently doing a Bachelor in Artificial Intelligence at "The Islamia University of Bahawalpur".
+-🔬** Researching and experimenting with cutting-edge AI technologies.
+-🚀** Fascinated by the future of AI, Machine Learning, Data Analyst, and beyond.
+
 ### 🚀 Exploring the Future with AI, Space, Evolution, and Data
 
 Hello, world! I'm on a mission to explore the cutting edge of technology and science. My interests span the realms of AI, Space Exploration, Evolutionary Biology, and Data Analysis. Welcome to my cosmic journey! 🌌
