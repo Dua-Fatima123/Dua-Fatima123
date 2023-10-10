@@ -12,4 +12,11 @@ Hello, world! I'm on a mission to explore the cutting edge of technology and sci
 - 🌱 **Evolutionary Biology**: Exploring the diversity of life and the forces that shape it.
 - 📊 **Data Analysis**: Turning data into insights, one dataset at a time.
 
+## 🌌 Let's Collaborate
+I believe that the future is created through collaboration. Let's connect and work together to push the boundaries of what's possible:
+
+- 📧 **Email**: syedaduppi786@mail.com
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/syeda-dua-fatima-b8b154282)
+  
+
 
