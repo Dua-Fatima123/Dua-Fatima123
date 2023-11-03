@@ -19,7 +19,7 @@ Hello, world! I'm on a mission to explore the cutting edge of technology and sci
 ## 🌌 Let's Collaborate
 I believe that the future is created through collaboration. Let's connect and work together to push the boundaries of what's possible:
 
-- 📧 **Email**: syedaduppi786@mail.com
+- 📧 **Email**: syedaduppi786@gmail.com
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/syeda-dua-fatima-b8b154282)
   
 ## 🌿 Let's Embrace the Future
